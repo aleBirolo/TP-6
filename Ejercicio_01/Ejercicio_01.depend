@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652036798 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c++\tp_6\ejercicio_01\main.cpp
+	<iostream>
+	"punto.h"
+
+1652038020 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c++\tp_6\ejercicio_01\punto.cpp
+	"punto.h"
+
+1652038020 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c++\tp_6\ejercicio_01\punto.h
+	<iostream>
+
